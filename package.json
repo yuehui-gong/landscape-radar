@@ -1,0 +1,1 @@
+{"name":"landscape-radar","version":"1.0.0","private":true,"type":"module","scripts":{"collect":"node scripts/collect.mjs","test":"node --test","serve":"node scripts/serve.mjs"},"dependencies":{"cheerio":"1.1.2","fast-xml-parser":"5.3.2"},"engines":{"node":">=22"}}
