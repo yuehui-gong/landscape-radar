@@ -1,6 +1,6 @@
 {
-  "lastAttempt": "2026-11-10T02:24:56.553Z",
-  "lastSuccess": "2026-11-10T02:24:56.553Z",
+  "lastAttempt": "2026-11-10T02:26:55.181Z",
+  "lastSuccess": "2026-11-10T02:26:55.181Z",
   "status": "ok",
   "sources": [
     {
@@ -16,9 +16,9 @@
       "accessBasis": "Publisher-advertised RSS; linked titles and factual metadata only. No article text, images or blanket reuse grant.",
       "coverage": "Latest publisher feed entries; not the full archive.",
       "status": "ok",
-      "checkedAt": "2026-11-10T02:24:56.553Z",
+      "checkedAt": "2026-11-10T02:26:55.181Z",
       "count": 20,
-      "lastSuccess": "2026-11-10T02:24:56.553Z"
+      "lastSuccess": "2026-11-10T02:26:55.181Z"
     },
     {
       "id": "ted",
@@ -35,9 +35,9 @@
       "matched": 1871,
       "limited": true,
       "status": "ok",
-      "checkedAt": "2026-11-10T02:24:56.553Z",
+      "checkedAt": "2026-11-10T02:26:55.181Z",
       "count": 100,
-      "lastSuccess": "2026-11-10T02:24:56.553Z"
+      "lastSuccess": "2026-11-10T02:26:55.181Z"
     }
   ],
   "items": [
@@ -67,12 +67,13 @@
       "deadlineEvidence": "2026-12-11+01:00",
       "publishedAt": "2026-11-10T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "af6a631ccfe2a488",
@@ -100,12 +101,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-10T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "525e6b4c67812b9f",
@@ -133,12 +135,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-10T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "e5c12662db753ef5",
@@ -166,12 +169,13 @@
       "deadlineEvidence": "2026-12-10+01:00",
       "publishedAt": "2026-11-10T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "41e976109c9f1291",
@@ -199,12 +203,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-10T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "7045b2dc341fdae7",
@@ -232,12 +237,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-10T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "f9fd39fe9508b540",
@@ -265,12 +271,13 @@
       "deadlineEvidence": "2026-11-13+01:00",
       "publishedAt": "2026-11-10T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "67f54fababf937f1",
@@ -298,12 +305,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-10T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "5f53c15602a29d84",
@@ -331,12 +339,13 @@
       "deadlineEvidence": "2026-12-09+01:00",
       "publishedAt": "2026-11-10T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "f4f20e8422602fd4",
@@ -364,12 +373,13 @@
       "deadlineEvidence": "2026-11-20+01:00",
       "publishedAt": "2026-11-10T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "dc95276f92e658a1",
@@ -397,12 +407,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-10T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "db7bba40492313fb",
@@ -430,12 +441,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-10T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "c21eb4310001252c",
@@ -463,12 +475,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-09T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "4c413d9b99be1a61",
@@ -496,12 +509,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-09T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "8d77e6eecb3f30b2",
@@ -529,12 +543,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-09T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "dfb1f47a9f94a734",
@@ -562,12 +577,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-09T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "0607ef0850b0d17d",
@@ -595,12 +611,13 @@
       "deadlineEvidence": "2026-12-15+01:00",
       "publishedAt": "2026-11-09T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "29f118e346ab9d15",
@@ -628,12 +645,13 @@
       "deadlineEvidence": "2026-12-08+01:00",
       "publishedAt": "2026-11-09T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "49ddd0f75c0a2365",
@@ -661,12 +679,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-09T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "0f0b73b982658cb0",
@@ -694,12 +713,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-09T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "d31f1167648081f3",
@@ -727,12 +747,13 @@
       "deadlineEvidence": "2026-11-23+01:00",
       "publishedAt": "2026-11-09T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "f3a2bf7202aa58b1",
@@ -760,12 +781,13 @@
       "deadlineEvidence": "2026-12-14Z",
       "publishedAt": "2026-11-09T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "2e08251fa2865b1d",
@@ -793,12 +815,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-09T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "89d66f5aedb881f2",
@@ -826,12 +849,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-09T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "1a76ec0b9a55bf8e",
@@ -859,12 +883,13 @@
       "deadlineEvidence": "2026-12-08+01:00",
       "publishedAt": "2026-11-09T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "4c7cc3a21f7a4520",
@@ -892,12 +917,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-09T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "33bfe724afcec982",
@@ -925,12 +951,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-09T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "444ab6205cb950e6",
@@ -958,12 +985,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-09T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "5af51447eefa7b33",
@@ -991,12 +1019,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-09T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "e7f78a4cad3a5436",
@@ -1024,12 +1053,13 @@
       "deadlineEvidence": "2026-12-10Z",
       "publishedAt": "2026-11-09T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "10909e751238467c",
@@ -1057,12 +1087,13 @@
       "deadlineEvidence": "2026-11-27+02:00",
       "publishedAt": "2026-11-09T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "6c6323b459406acf",
@@ -1090,12 +1121,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-06T16:58:18.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "26ce105664d005ba",
@@ -1123,12 +1155,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-06T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "67e10f14f5cf2092",
@@ -1156,12 +1189,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-06T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "ff4490e8d9b9b1aa",
@@ -1189,12 +1223,13 @@
       "deadlineEvidence": "2026-12-04Z",
       "publishedAt": "2026-11-06T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "92c6be34c0b351e7",
@@ -1222,12 +1257,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-06T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "e6e4497f179e5ea2",
@@ -1255,12 +1291,13 @@
       "deadlineEvidence": "2027-01-07+01:00",
       "publishedAt": "2026-11-06T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "a3fa2b0e76c3e107",
@@ -1288,12 +1325,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-06T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "8836c96e486cfcf4",
@@ -1321,12 +1359,13 @@
       "deadlineEvidence": "2026-12-14+01:00",
       "publishedAt": "2026-11-06T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "fad5764156241f0f",
@@ -1354,12 +1393,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-06T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "ebbb0cf7b2354d27",
@@ -1387,12 +1427,13 @@
       "deadlineEvidence": "2026-12-09+01:00",
       "publishedAt": "2026-11-06T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "57fd7a1c352806c0",
@@ -1420,12 +1461,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-06T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "287cee4768f90357",
@@ -1453,12 +1495,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-06T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "a9fdd82fedcfca37",
@@ -1486,12 +1529,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-05T14:03:46.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "12466941eecb518b",
@@ -1519,12 +1563,13 @@
       "deadlineEvidence": "2026-11-30Z",
       "publishedAt": "2026-11-05T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "fb2068397e9aebbe",
@@ -1552,12 +1597,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-05T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "efcac4572874e0ed",
@@ -1585,12 +1631,13 @@
       "deadlineEvidence": "2026-11-20+01:00",
       "publishedAt": "2026-11-05T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "2b4468dbc03ab749",
@@ -1618,12 +1665,13 @@
       "deadlineEvidence": "2026-12-10+01:00",
       "publishedAt": "2026-11-05T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "f6a531380f134ef7",
@@ -1651,12 +1699,13 @@
       "deadlineEvidence": "2026-11-25Z",
       "publishedAt": "2026-11-05T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "3cd701150729b957",
@@ -1684,12 +1733,13 @@
       "deadlineEvidence": "2026-12-04+01:00",
       "publishedAt": "2026-11-05T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "5426c3a7de217111",
@@ -1717,12 +1767,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-05T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "aee0aa252f174b16",
@@ -1750,12 +1801,13 @@
       "deadlineEvidence": "2026-12-09+02:00",
       "publishedAt": "2026-11-05T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "7df34adfd5181ad3",
@@ -1783,12 +1835,13 @@
       "deadlineEvidence": "2026-12-15+01:00",
       "publishedAt": "2026-11-05T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "08ee0b89a06302bb",
@@ -1816,12 +1869,13 @@
       "deadlineEvidence": "2026-12-08+01:00",
       "publishedAt": "2026-11-05T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "8304f687fcbc2026",
@@ -1849,12 +1903,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-05T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "8095d2c5467e943c",
@@ -1882,12 +1937,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-04T13:39:44.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "e4fe43bdb088ed83",
@@ -1915,12 +1971,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-04T13:38:58.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "de6783267afed7af",
@@ -1948,12 +2005,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-04T13:36:32.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "cbcd3b4c11cc443f",
@@ -1981,12 +2039,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-04T13:21:52.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "32b54df1fa491d53",
@@ -2014,12 +2073,13 @@
       "deadlineEvidence": "2026-12-09+01:00",
       "publishedAt": "2026-11-04T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "ac0086c8fd0e6811",
@@ -2047,12 +2107,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-04T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "523254f98f6e91b0",
@@ -2080,12 +2141,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-04T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "bad13376d43fe2cb",
@@ -2113,12 +2175,13 @@
       "deadlineEvidence": "2026-12-14Z",
       "publishedAt": "2026-11-04T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "9c2c72abea8b7c04",
@@ -2146,12 +2209,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-04T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "acf8e6d58ef60471",
@@ -2179,12 +2243,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-04T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "05dcbd4f9855a5fd",
@@ -2212,12 +2277,13 @@
       "deadlineEvidence": "2026-12-03+01:00",
       "publishedAt": "2026-11-04T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "dbc4dbc64a88d926",
@@ -2245,12 +2311,13 @@
       "deadlineEvidence": "2026-12-03+01:00",
       "publishedAt": "2026-11-04T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "ca8240f014e2a628",
@@ -2278,12 +2345,13 @@
       "deadlineEvidence": "2026-12-04Z",
       "publishedAt": "2026-11-04T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "6283b0a4a7fdb13a",
@@ -2311,12 +2379,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-04T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "a673e2fe4ef02b8f",
@@ -2344,12 +2413,13 @@
       "deadlineEvidence": "2026-11-23+01:00",
       "publishedAt": "2026-11-04T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "7d45abd43bf57a6c",
@@ -2377,12 +2447,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-03T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "aa65d7df746daacd",
@@ -2410,12 +2481,13 @@
       "deadlineEvidence": "2026-12-09+01:00",
       "publishedAt": "2026-11-03T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "6b602b0cd8b2a24e",
@@ -2443,12 +2515,13 @@
       "deadlineEvidence": "2026-12-07+01:00",
       "publishedAt": "2026-11-03T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "364a76923d288b04",
@@ -2476,12 +2549,13 @@
       "deadlineEvidence": "2026-12-02+01:00",
       "publishedAt": "2026-11-03T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "58eb314dcbb97e7a",
@@ -2509,12 +2583,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-03T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "f17c50e1c0cdd87f",
@@ -2542,12 +2617,13 @@
       "deadlineEvidence": "2026-12-07Z",
       "publishedAt": "2026-11-03T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "cdaea46d3163b653",
@@ -2575,12 +2651,13 @@
       "deadlineEvidence": "2026-12-04+01:00",
       "publishedAt": "2026-11-03T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "2fcbb3f2a6745551",
@@ -2608,12 +2685,13 @@
       "deadlineEvidence": "2026-11-30+01:00",
       "publishedAt": "2026-11-03T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "4184d66a90934746",
@@ -2641,12 +2719,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-03T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "2a8c3f24feb8447c",
@@ -2674,12 +2753,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-03T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "0e4a9f48561c497a",
@@ -2707,12 +2787,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-03T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "316f7108ca8f1099",
@@ -2740,12 +2821,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-03T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "4b7889aa042f25e0",
@@ -2773,12 +2855,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-03T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "e497fc3f2a343c40",
@@ -2806,12 +2889,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-03T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "1b6eb269b06d9011",
@@ -2839,12 +2923,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-03T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "965ea6bd572d5b2a",
@@ -2872,12 +2957,13 @@
       "deadlineEvidence": "2026-12-01Z",
       "publishedAt": "2026-11-03T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "383a4d23653d1b86",
@@ -2905,12 +2991,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-02T13:13:05.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "a722fd2fe7337ee3",
@@ -2938,12 +3025,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-02T13:13:04.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "76e80dd8d6cf22d6",
@@ -2971,12 +3059,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-02T12:13:06.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "76b44a4fed6413e2",
@@ -3004,12 +3093,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-02T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "0a60c21525a382a7",
@@ -3037,12 +3127,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-02T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "2d93b1228cea3c7f",
@@ -3070,12 +3161,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-02T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "1946c82be9396df5",
@@ -3103,12 +3195,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-02T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "dddd53d7c5950e7e",
@@ -3136,12 +3229,13 @@
       "deadlineEvidence": "2026-11-16+01:00",
       "publishedAt": "2026-11-02T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "021f426bc3f97b10",
@@ -3169,12 +3263,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-02T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "693f82f24d4ddefe",
@@ -3202,12 +3297,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-02T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "623283a2aa90329f",
@@ -3235,12 +3331,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-02T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "0c0b1f160ee6a96f",
@@ -3268,12 +3365,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-02T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "407b1adacfb36926",
@@ -3301,12 +3399,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-11-02T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "1c49fe253617a28a",
@@ -3334,12 +3433,13 @@
       "deadlineEvidence": "2026-12-03+01:00",
       "publishedAt": "2026-11-02T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "c93488e36be220e6",
@@ -3367,12 +3467,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-10-30T14:11:10.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "91a9ea44f155ec3d",
@@ -3400,12 +3501,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-10-30T13:31:23.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "5ebab9c7aaaf4d7b",
@@ -3433,12 +3535,13 @@
       "deadlineEvidence": "2026-12-18Z",
       "publishedAt": "2026-10-30T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "d4bc16db143d43be",
@@ -3466,12 +3569,13 @@
       "deadlineEvidence": "2026-11-30+01:00",
       "publishedAt": "2026-10-30T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "285fa0491325954d",
@@ -3499,12 +3603,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-10-30T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "2f6fb0dfef6d7804",
@@ -3532,12 +3637,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-10-30T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "675c6e900859c3f8",
@@ -3565,12 +3671,13 @@
       "deadlineEvidence": "2026-11-19+01:00",
       "publishedAt": "2026-10-30T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "83a3f9e687accf8c",
@@ -3598,12 +3705,13 @@
       "deadlineEvidence": "2027-02-01+01:00",
       "publishedAt": "2026-10-30T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "85455b0a3cdf2973",
@@ -3631,12 +3739,13 @@
       "deadlineEvidence": "2026-12-07+01:00",
       "publishedAt": "2026-10-30T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "f0ecfab917209a43",
@@ -3664,12 +3773,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-10-30T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "7947566269ef237f",
@@ -3697,12 +3807,13 @@
       "deadlineEvidence": "2026-11-17+01:00",
       "publishedAt": "2026-10-30T12:00:00.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "d02321fc879dfe20",
@@ -3730,12 +3841,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-10-29T13:59:49.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "8aed42a623be777e",
@@ -3763,12 +3875,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-10-23T14:44:19.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "73aebd0cd720c320",
@@ -3796,12 +3909,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-10-19T11:18:46.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "6ef24de42de4f6cd",
@@ -3829,12 +3943,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-10-19T11:17:34.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "aff917d3c626ec8c",
@@ -3862,12 +3977,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-10-19T11:16:58.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "08651308a5058e6c",
@@ -3895,12 +4011,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-10-19T11:14:33.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "14037edd0e70abd8",
@@ -3928,12 +4045,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-10-19T11:13:50.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "25be01a98a1984b4",
@@ -3961,12 +4079,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-10-02T19:59:42.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     },
     {
       "id": "7cf7141f3b5a8d38",
@@ -3994,12 +4113,13 @@
       "deadlineEvidence": null,
       "publishedAt": "2026-10-02T19:50:04.000Z",
       "firstSeen": "2026-11-10T02:24:56.553Z",
-      "lastSeen": "2026-11-10T02:24:56.553Z",
+      "lastSeen": "2026-11-10T02:26:55.181Z",
       "participationStatus": "Unverified",
       "eligibility": null,
       "entryFee": null,
       "budget": null,
-      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review"
+      "verification": "Discovered listing; participation, eligibility, fees and deadlines need organizer review",
+      "aliases": []
     }
   ]
 }
