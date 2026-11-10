@@ -6,10 +6,10 @@
     "note": "Public-page parser restored at user request for titles, links, location and stated deadlines only. Descriptions and images excluded. Reuse permission remains unverified; robots restrictions are enforced."
   },
   "landezine": {
-    "mode": "access-blocked",
+    "mode": "automatic",
     "verifiedPage": true,
     "termsUrl": "https://landezine.com/terms-and-conditions-2/",
-    "note": "RSS reader restored as a scheduled metadata-only access check at user request, but current robots.txt disallows /feed/ and */feed/. No feed content fetched while blocked. Reuse permission remains unverified."
+    "note": "Metadata-only public listing-page parser restored at user request. Current robots permits this page but blocks RSS, so no feed URLs are requested. Reuse permission remains unverified; descriptions and images excluded."
   },
   "archdaily": {
     "mode": "permission-needed",

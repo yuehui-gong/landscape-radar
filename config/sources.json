@@ -39,12 +39,12 @@
   {
     "id": "landezine",
     "name": "Landezine",
-    "kind": "rss",
-    "url": "https://landezine.com/topics/methods-mediations/calls-opportunities/feed/",
+    "kind": "landezine",
+    "url": "https://landezine.com/topics/methods-mediations/calls-opportunities/",
     "homepage": "https://landezine.com/topics/methods-mediations/calls-opportunities/",
     "region": "International",
     "metadataOnly": true,
-    "accessBasis": "Publisher RSS metadata collection restored at user request. Reuse permission remains unverified. No descriptions or images retained.",
-    "coverage": "Latest Calls & Opportunities feed entries; publication dates are not deadlines."
+    "accessBasis": "Metadata-only public listing-page collection restored at user request. Current robots permits this page; disallowed RSS paths are not requested. Reuse permission remains unverified.",
+    "coverage": "Public Calls & Opportunities listing page; article publication dates are not deadlines. No descriptions or images retained."
   }
 ]

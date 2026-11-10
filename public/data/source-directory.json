@@ -1,5 +1,5 @@
 {
-  "reviewedAt": "2026-11-10T02:33:33.296Z",
+  "reviewedAt": "2026-11-10T02:35:24.406Z",
   "sourceCount": 46,
   "notice": "Directory membership is not automatic monitoring. Only Automatic sources are collected. A reachable page or permissive robots rule does not establish a reuse license.",
   "sources": [
@@ -29,7 +29,7 @@
       "category": "Existing sources",
       "homepage": "https://landezine.com/topics/methods-mediations/calls-opportunities/",
       "originalUrl": "https://landezine.com/topics/methods-mediations/calls-opportunities/",
-      "mode": "access-blocked",
+      "mode": "automatic",
       "listingVerified": true,
       "pageCheckedAt": "2026-11-10T02:10:51.670Z",
       "pageHttp": 200,
@@ -41,7 +41,7 @@
       "termsUrl": "https://landezine.com/terms-and-conditions-2/",
       "termsReview": "Reviewed; see access note",
       "apiDocs": null,
-      "note": "RSS reader restored as a scheduled metadata-only access check at user request, but current robots.txt disallows /feed/ and */feed/. No feed content fetched while blocked. Reuse permission remains unverified."
+      "note": "Metadata-only public listing-page parser restored at user request. Current robots permits this page but blocks RSS, so no feed URLs are requested. Reuse permission remains unverified; descriptions and images excluded."
     },
     {
       "id": "bustler",
