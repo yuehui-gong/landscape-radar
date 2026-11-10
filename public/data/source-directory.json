@@ -1,5 +1,5 @@
 {
-  "reviewedAt": "2026-11-10T02:35:24.406Z",
+  "reviewedAt": "2026-11-10T03:08:52.276Z",
   "sourceCount": 46,
   "notice": "Directory membership is not automatic monitoring. Only Automatic sources are collected. A reachable page or permissive robots rule does not establish a reuse license.",
   "sources": [
@@ -249,7 +249,7 @@
       "category": "Direct competition organizers",
       "homepage": "https://www.youngarchitectscompetitions.com/open-competitions",
       "originalUrl": "https://www.youngarchitectscompetitions.com/",
-      "mode": "manual-review",
+      "mode": "automatic",
       "listingVerified": true,
       "pageCheckedAt": "2026-11-10T02:10:56.130Z",
       "pageHttp": 200,
@@ -259,9 +259,9 @@
         "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
       },
       "termsUrl": "https://www.youngarchitectscompetitions.com/terms",
-      "termsReview": "Not fully verified",
+      "termsReview": "Reviewed; see access note",
       "apiDocs": null,
-      "note": "Official open-competitions page verified. Individual brief and access/reuse terms need review before automation."
+      "note": "Official public listing and participation terms reviewed. Metadata-only collector checks titles, organizer links and explicit submission dates, with runtime robots enforcement. No blanket reuse license or entrant eligibility is inferred."
     },
     {
       "id": "archstorming",

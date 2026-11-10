@@ -46,5 +46,18 @@
     "metadataOnly": true,
     "accessBasis": "Metadata-only public listing-page collection restored at user request. Current robots permits this page; disallowed RSS paths are not requested. Reuse permission remains unverified.",
     "coverage": "Public Calls & Opportunities listing page; article publication dates are not deadlines. No descriptions or images retained."
+  },
+  {
+    "id": "yac",
+    "name": "Young Architects Competitions (YAC)",
+    "kind": "yac",
+    "url": "https://www.youngarchitectscompetitions.com/open-competitions",
+    "homepage": "https://www.youngarchitectscompetitions.com/open-competitions",
+    "region": "International",
+    "official": true,
+    "metadataOnly": true,
+    "detailLimit": 10,
+    "accessBasis": "Public listing and terms reviewed. No explicit automated-access prohibition found in published participation terms; no blanket reuse license inferred. Titles, links and factual metadata only; runtime robots checks enforced.",
+    "coverage": "Official open-competitions index, plus submission-calendar checks for up to 10 briefs per run. Registration dates and results dates are not submission deadlines; eligibility remains unverified."
   }
 ]

@@ -91,7 +91,9 @@
   "yac": {
     "page": "https://www.youngarchitectscompetitions.com/open-competitions",
     "verifiedPage": true,
-    "note": "Official open-competitions page verified. Individual brief and access/reuse terms need review before automation."
+    "note": "Official public listing and participation terms reviewed. Metadata-only collector checks titles, organizer links and explicit submission dates, with runtime robots enforcement. No blanket reuse license or entrant eligibility is inferred.",
+    "mode": "automatic",
+    "termsUrl": "https://www.youngarchitectscompetitions.com/terms"
   },
   "deziko": {
     "verifiedPage": true,

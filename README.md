@@ -7,6 +7,7 @@ A public demo for a small landscape architecture team: a shared discovery board 
 ## What works
 
 - A 46-source directory with verified routes, robots/access findings and explicit manual/permission/API-key states.
+- Official YAC competition cards and explicitly labeled submission-calendar dates, with robots checks on listing and brief pages.
 - Automatic linked-title metadata from Competitions.archi's advertised RSS, plus a bounded official EU TED Search API query for urban-planning and landscape CPV codes.
 - Search, type and source filters, deadline sorting, CSV export, and a browser-local shortlist.
 - GitHub-hosted collection approximately every 48 hours, plus manual runs from Actions.
