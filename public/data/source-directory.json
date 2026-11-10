@@ -1,0 +1,927 @@
+{
+  "reviewedAt": "2026-11-10T02:19:00.656Z",
+  "sourceCount": 46,
+  "notice": "Directory membership is not automatic monitoring. Only Automatic sources are collected. A reachable page or permissive robots rule does not establish a reuse license.",
+  "sources": [
+    {
+      "id": "asla",
+      "name": "ASLA",
+      "category": "Existing sources",
+      "homepage": "https://www.asla.org/resources/practitioners/rfqs-and-opportunities",
+      "originalUrl": "https://www.asla.org/resources/practitioners/rfqs-and-opportunities",
+      "mode": "permission-needed",
+      "listingVerified": true,
+      "pageCheckedAt": "2026-11-10T02:10:51.660Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.asla.org/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": "https://www.asla.org/terms-of-use",
+      "termsReview": "Reviewed; see access note",
+      "apiDocs": null,
+      "note": "Terms restrict copying, distribution and incorporation into information-retrieval systems without consent. Prior public imports paused; source remains linked."
+    },
+    {
+      "id": "landezine",
+      "name": "Landezine",
+      "category": "Existing sources",
+      "homepage": "https://landezine.com/topics/methods-mediations/calls-opportunities/",
+      "originalUrl": "https://landezine.com/topics/methods-mediations/calls-opportunities/",
+      "mode": "permission-needed",
+      "listingVerified": true,
+      "pageCheckedAt": "2026-11-10T02:10:51.670Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://landezine.com/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": "https://landezine.com/terms-and-conditions-2/",
+      "termsReview": "Reviewed; see access note",
+      "apiDocs": null,
+      "note": "Terms limit use to personal viewing and restrict public display and mirroring. Prior public imports paused pending permission."
+    },
+    {
+      "id": "bustler",
+      "name": "Bustler",
+      "category": "Competition aggregators",
+      "homepage": "https://bustler.net/competitions/",
+      "originalUrl": "https://bustler.net/competitions/",
+      "mode": "manual-review",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:10:51.670Z",
+      "pageHttp": null,
+      "robots": {
+        "url": "https://bustler.net/robots.txt",
+        "allowed": null,
+        "note": "Invalid robots response"
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Robots could not be verified; no unattended collection enabled."
+    },
+    {
+      "id": "archdaily",
+      "name": "ArchDaily Competitions",
+      "category": "Competition aggregators",
+      "homepage": "https://www.archdaily.com/search/competitions/en",
+      "originalUrl": "https://www.archdaily.com/search/competitions/en",
+      "mode": "permission-needed",
+      "listingVerified": true,
+      "pageCheckedAt": "2026-11-10T02:10:51.671Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.archdaily.com/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": "https://www.archdaily.com/content/terms-of-use.en-US",
+      "termsReview": "Reviewed; see access note",
+      "apiDocs": null,
+      "note": "Terms require written permission for copying or scraping. Not collected."
+    },
+    {
+      "id": "competitionline",
+      "name": "competitionline",
+      "category": "Competition aggregators",
+      "homepage": "https://www.competitionline.com/",
+      "originalUrl": "https://www.competitionline.com/",
+      "mode": "manual-review",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:10:52.231Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.competitionline.com/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Homepage checked; active opportunity page, terms and collection adapter remain unverified."
+    },
+    {
+      "id": "archinect",
+      "name": "Archinect",
+      "category": "Competition aggregators",
+      "homepage": "https://archinect.com/competitions",
+      "originalUrl": "https://www.archinect.com/",
+      "mode": "manual-review",
+      "listingVerified": true,
+      "pageCheckedAt": "2026-11-10T02:10:52.366Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.archinect.com/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Competition listing verified; promoted listings link to Bustler. Automated-access and republication terms need review."
+    },
+    {
+      "id": "competitions-archi",
+      "name": "Competitions.archi",
+      "category": "Competition aggregators",
+      "homepage": "https://competitions.archi/cat/all-competitions/",
+      "originalUrl": "https://competitions.archi/",
+      "mode": "automatic",
+      "listingVerified": true,
+      "pageCheckedAt": "2026-11-10T02:10:52.594Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://competitions.archi/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Publisher-advertised RSS verified. Only titles, linked URLs and factual metadata are indexed; result announcements excluded. No blanket republication permission inferred."
+    },
+    {
+      "id": "world-architecture",
+      "name": "World Architecture Community",
+      "category": "Competition aggregators",
+      "homepage": "https://www.worldarchitecture.org/",
+      "originalUrl": "https://www.worldarchitecture.org/",
+      "mode": "manual-review",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:10:53.387Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.worldarchitecture.org/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Homepage checked; active opportunity page, terms and collection adapter remain unverified."
+    },
+    {
+      "id": "deziko",
+      "name": "Deziko",
+      "category": "Competition aggregators",
+      "homepage": "https://www.deziko.com/",
+      "originalUrl": "https://www.deziko.com/",
+      "mode": "manual-review",
+      "listingVerified": true,
+      "pageCheckedAt": "2026-11-10T02:10:53.773Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.deziko.com/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Competition listing with organizer links found on homepage. No automated-access or reuse permission verified; not enabled."
+    },
+    {
+      "id": "terraviva",
+      "name": "TerraViva Competitions",
+      "category": "Direct competition organizers",
+      "homepage": "https://www.terravivacompetitions.com/open-competitions/",
+      "originalUrl": "https://www.terravivacompetitions.com/open-competitions/",
+      "mode": "permission-needed",
+      "listingVerified": true,
+      "pageCheckedAt": "2026-11-10T02:10:53.885Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.terravivacompetitions.com/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": "https://www.terravivacompetitions.com/privacy-policy/",
+      "termsReview": "Reviewed; see access note",
+      "apiDocs": null,
+      "note": "Official open-competition page verified. Website terms restrict unauthorized copying and publication; direct imports await permission."
+    },
+    {
+      "id": "europan",
+      "name": "Europan Europe",
+      "category": "Direct competition organizers",
+      "homepage": "https://www.europan-europe.eu/",
+      "originalUrl": "https://www.europan-europe.eu/",
+      "mode": "manual-review",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:10:54.870Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.europan-europe.eu/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Homepage checked; active opportunity page, terms and collection adapter remain unverified."
+    },
+    {
+      "id": "buildner",
+      "name": "Buildner",
+      "category": "Direct competition organizers",
+      "homepage": "https://architecturecompetitions.com/",
+      "originalUrl": "https://architecturecompetitions.com/",
+      "mode": "permission-needed",
+      "listingVerified": true,
+      "pageCheckedAt": "2026-11-10T02:10:56.101Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://architecturecompetitions.com/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": "https://architecturecompetitions.com/legal-notices/",
+      "termsReview": "Reviewed; see access note",
+      "apiDocs": null,
+      "note": "Terms prohibit unauthorized automated access and retrieval. Not collected; organizer links may be provided by permitted third-party metadata."
+    },
+    {
+      "id": "yac",
+      "name": "Young Architects Competitions (YAC)",
+      "category": "Direct competition organizers",
+      "homepage": "https://www.youngarchitectscompetitions.com/open-competitions",
+      "originalUrl": "https://www.youngarchitectscompetitions.com/",
+      "mode": "manual-review",
+      "listingVerified": true,
+      "pageCheckedAt": "2026-11-10T02:10:56.130Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.youngarchitectscompetitions.com/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": "https://www.youngarchitectscompetitions.com/terms",
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Official open-competitions page verified. Individual brief and access/reuse terms need review before automation."
+    },
+    {
+      "id": "archstorming",
+      "name": "Archstorming",
+      "category": "Direct competition organizers",
+      "homepage": "https://www.archstorming.com/competitions.html",
+      "originalUrl": "https://www.archstorming.com/",
+      "mode": "permission-needed",
+      "listingVerified": true,
+      "pageCheckedAt": "2026-11-10T02:10:58.057Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.archstorming.com/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": "https://www.archstorming.com/terms.html",
+      "termsReview": "Reviewed; see access note",
+      "apiDocs": null,
+      "note": "Official competition page verified. Terms restrict reproduction and public communication of content without written consent."
+    },
+    {
+      "id": "non-architecture",
+      "name": "Non Architecture",
+      "category": "Direct competition organizers",
+      "homepage": "https://www.nonarchitecture.eu/",
+      "originalUrl": "https://www.nonarchitecture.eu/",
+      "mode": "manual-review",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:10:58.171Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.nonarchitecture.eu/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Publisher RSS reachable but sampled entries include newsletters and completed projects. A current-competition filter, terms review and adapter are required."
+    },
+    {
+      "id": "arch-out-loud",
+      "name": "Arch Out Loud",
+      "category": "Direct competition organizers",
+      "homepage": "https://www.archoutloud.com/competitions.html",
+      "originalUrl": "https://www.archoutloud.com/",
+      "mode": "permission-needed",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:10:58.576Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.archoutloud.com/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": "https://www.archoutloud.com/terms-and-conditions.html",
+      "termsReview": "Reviewed; see access note",
+      "apiDocs": null,
+      "note": "Competition page linked from official homepage; terms restrict copying and redistribution. Current openings not verified."
+    },
+    {
+      "id": "uni",
+      "name": "UNI",
+      "category": "Direct competition organizers",
+      "homepage": "https://uni.xyz/",
+      "originalUrl": "https://uni.xyz/",
+      "mode": "manual-review",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:10:58.913Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://uni.xyz/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Homepage checked; active opportunity page, terms and collection adapter remain unverified."
+    },
+    {
+      "id": "arquideas",
+      "name": "Arquideas",
+      "category": "Direct competition organizers",
+      "homepage": "https://www.arquideas.net/",
+      "originalUrl": "https://www.arquideas.net/",
+      "mode": "unverified",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:10:59.050Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.arquideas.net/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": "https://www.arquideas.net/terms.html",
+      "termsReview": "Reviewed; see access note",
+      "apiDocs": null,
+      "note": "Current site did not expose a verifiable design-competition listing. Automated access requires permission under retrieved terms. Do not treat as an active organizer."
+    },
+    {
+      "id": "reford",
+      "name": "International Garden Festival / Reford Gardens",
+      "category": "Garden festivals and installations",
+      "homepage": "https://www.jardinsdemetis.com/",
+      "originalUrl": "https://www.jardinsdemetis.com/",
+      "mode": "manual-review",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:10:59.860Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.jardinsdemetis.com/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Official homepage and advertised feed reachable, but feed provides no current opportunity items. Locate and verify the organizer call page before collection."
+    },
+    {
+      "id": "chaumont",
+      "name": "Chaumont-sur-Loire International Garden Festival",
+      "category": "Garden festivals and installations",
+      "homepage": "https://concours.domaine-chaumont.fr/en/international-garden-festival/contest-home-page",
+      "originalUrl": "https://concours.domaine-chaumont.fr/en/international-garden-festival/contest-home-page",
+      "mode": "permission-needed",
+      "listingVerified": true,
+      "pageCheckedAt": "2026-11-10T02:11:00.726Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://concours.domaine-chaumont.fr/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": "https://concours.domaine-chaumont.fr/en/legal-notices",
+      "termsReview": "Reviewed; see access note",
+      "apiDocs": null,
+      "note": "Official festival competition portal verified. Legal notice restricts extraction and reproduction without authorization; link only."
+    },
+    {
+      "id": "rhs",
+      "name": "Royal Horticultural Society (RHS)",
+      "category": "Garden festivals and installations",
+      "homepage": "https://www.rhs.org.uk/shows-events/exhibit-at-a-show/garden-applications",
+      "originalUrl": "https://www.rhs.org.uk/shows-events/exhibit-at-a-show/garden-applications",
+      "mode": "link-review",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:11:00.754Z",
+      "pageHttp": 404,
+      "robots": {
+        "url": "https://www.rhs.org.uk/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Supplied garden-applications URL returned HTTP 404 in direct audit. Search index still references it; verify the current official route manually before collection."
+    },
+    {
+      "id": "cafe",
+      "name": "CaFÉ",
+      "category": "Public art and creative placemaking",
+      "homepage": "https://www.callforentry.org/public-art/",
+      "originalUrl": "https://www.callforentry.org/public-art/",
+      "mode": "manual-review",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:11:01.631Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.callforentry.org/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": "https://www.callforentry.org/terms-and-conditions",
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Homepage checked; active opportunity page, terms and collection adapter remain unverified."
+    },
+    {
+      "id": "codaworx",
+      "name": "CODAworx",
+      "category": "Public art and creative placemaking",
+      "homepage": "https://www.codaworx.com/",
+      "originalUrl": "https://www.codaworx.com/",
+      "mode": "access-blocked",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:11:01.706Z",
+      "pageHttp": null,
+      "robots": {
+        "url": "https://www.codaworx.com/robots.txt",
+        "allowed": false,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Robots rules disallow the supplied path for this collector. No bypass attempted."
+    },
+    {
+      "id": "artwork-archive",
+      "name": "Artwork Archive",
+      "category": "Public art and creative placemaking",
+      "homepage": "https://www.artworkarchive.com/call-for-entry",
+      "originalUrl": "https://www.artworkarchive.com/call-for-entry",
+      "mode": "access-blocked",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:11:02.093Z",
+      "pageHttp": 403,
+      "robots": {
+        "url": "https://www.artworkarchive.com/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Official listing endpoint returned HTTP 403. No bypass attempted."
+    },
+    {
+      "id": "creative-capital",
+      "name": "Creative Capital",
+      "category": "Public art and creative placemaking",
+      "homepage": "https://creative-capital.org/creative-capital-award/",
+      "originalUrl": "https://www.creative-capital.org/",
+      "mode": "permission-needed",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:11:02.153Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.creative-capital.org/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": "https://creative-capital.org/terms-of-use/",
+      "termsReview": "Reviewed; see access note",
+      "apiDocs": null,
+      "note": "Official awards page linked from homepage. Terms prohibit automated programs and scripts; no collection enabled."
+    },
+    {
+      "id": "nyfa",
+      "name": "New York Foundation for the Arts (NYFA)",
+      "category": "Public art and creative placemaking",
+      "homepage": "https://www.nyfa.org/",
+      "originalUrl": "https://www.nyfa.org/",
+      "mode": "access-blocked",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:11:02.379Z",
+      "pageHttp": 403,
+      "robots": {
+        "url": "https://www.nyfa.org/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Direct access returned HTTP 403. An active opportunity page and permitted integration remain unverified."
+    },
+    {
+      "id": "sam",
+      "name": "SAM.gov",
+      "category": "RFP / RFQ / public procurement",
+      "homepage": "https://sam.gov/opportunities",
+      "originalUrl": "https://sam.gov/opportunities",
+      "mode": "key-required",
+      "listingVerified": true,
+      "pageCheckedAt": "2026-11-10T02:11:02.802Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://sam.gov/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": "https://sam.gov/about/terms-of-use",
+      "termsReview": "Not fully verified",
+      "apiDocs": "https://open.gsa.gov/api/get-opportunities-public-api/",
+      "note": "Official opportunities API documented; a SAM.gov API key is required. No key configured and no browser scraping fallback."
+    },
+    {
+      "id": "nyc-passport",
+      "name": "NYC PASSPort",
+      "category": "RFP / RFQ / public procurement",
+      "homepage": "https://www.nyc.gov/site/mocs/passport/articles/find-opportunities.page",
+      "originalUrl": "https://www.nyc.gov/site/mocs/passport/articles/find-opportunities.page",
+      "mode": "manual-review",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:11:03.682Z",
+      "pageHttp": null,
+      "robots": {
+        "url": "https://www.nyc.gov/robots.txt",
+        "allowed": null,
+        "note": "Robots access unresolved; collection paused."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Robots could not be verified; no unattended collection enabled."
+    },
+    {
+      "id": "nyscr",
+      "name": "NYS Contract Reporter",
+      "category": "RFP / RFQ / public procurement",
+      "homepage": "https://www.nyscr.ny.gov/Ads/Search",
+      "originalUrl": "https://www.nyscr.ny.gov/",
+      "mode": "manual-review",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:11:03.739Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.nyscr.ny.gov/robots.txt",
+        "allowed": true,
+        "note": "No robots file; this does not establish terms permission."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Search route discovered on official homepage. Registration requirements, permitted automation and design filters need review."
+    },
+    {
+      "id": "nj-purchase",
+      "name": "NJ Division of Purchase and Property",
+      "category": "RFP / RFQ / public procurement",
+      "homepage": "https://www.nj.gov/treasury/purchase/",
+      "originalUrl": "https://www.nj.gov/treasury/purchase/",
+      "mode": "manual-review",
+      "listingVerified": true,
+      "pageCheckedAt": "2026-11-10T02:11:03.891Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.nj.gov/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": "https://www.nj.gov/treasury/legalnotices.shtml",
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Official page links current bids to NJSTART. Tender details need a dedicated NJSTART access and adapter review; no generic homepage scraping enabled."
+    },
+    {
+      "id": "bidnet",
+      "name": "BidNet Direct",
+      "category": "RFP / RFQ / public procurement",
+      "homepage": "https://www.bidnetdirect.com/",
+      "originalUrl": "https://www.bidnetdirect.com/",
+      "mode": "manual-review",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:11:04.547Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.bidnetdirect.com/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": "https://www.bidnetdirect.com/tsandcs",
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Homepage checked; active opportunity page, terms and collection adapter remain unverified."
+    },
+    {
+      "id": "demandstar",
+      "name": "DemandStar",
+      "category": "RFP / RFQ / public procurement",
+      "homepage": "https://www.demandstar.com/",
+      "originalUrl": "https://www.demandstar.com/",
+      "mode": "permission-needed",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:11:04.593Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.demandstar.com/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": "https://network.demandstar.com/terms-of-use/",
+      "termsReview": "Reviewed; see access note",
+      "apiDocs": null,
+      "note": "Terms prohibit robots, scraping and extraction tools for monitoring or copying pages. Use an authorized integration or manual portal."
+    },
+    {
+      "id": "ted",
+      "name": "EU TED",
+      "category": "RFP / RFQ / public procurement",
+      "homepage": "https://ted.europa.eu/en/",
+      "originalUrl": "https://ted.europa.eu/",
+      "mode": "automatic",
+      "listingVerified": true,
+      "pageCheckedAt": "2026-11-10T02:11:05.570Z",
+      "pageHttp": 202,
+      "robots": {
+        "url": "https://ted.europa.eu/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": "https://docs.ted.europa.eu/api/latest/index.html",
+      "note": "Official keyless Search API tested. Latest 100 urban-planning/landscape CPV matches; partial coverage is disclosed. ACTIVE scope is not an eligibility assertion."
+    },
+    {
+      "id": "merx",
+      "name": "MERX",
+      "category": "RFP / RFQ / public procurement",
+      "homepage": "https://www.merx.com/public/solicitations/open",
+      "originalUrl": "https://www.merx.com/",
+      "mode": "manual-review",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:11:05.899Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.merx.com/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": "https://www.merx.com/public/terms-conditions",
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Public solicitation route discovered on official homepage. Terms, account access and extraction method need review."
+    },
+    {
+      "id": "van-alen",
+      "name": "Van Alen Institute",
+      "category": "Institutions and nonprofits",
+      "homepage": "https://www.vanalen.org/",
+      "originalUrl": "https://www.vanalen.org/",
+      "mode": "manual-review",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:11:05.925Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.vanalen.org/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Homepage checked; active opportunity page, terms and collection adapter remain unverified."
+    },
+    {
+      "id": "design-trust",
+      "name": "Design Trust for Public Space",
+      "category": "Institutions and nonprofits",
+      "homepage": "https://www.designtrust.org/rfp/",
+      "originalUrl": "https://www.designtrust.org/",
+      "mode": "manual-review",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:11:06.539Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.designtrust.org/robots.txt",
+        "allowed": true,
+        "note": "No robots file; this does not establish terms permission."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "RFP route discovered from official homepage. Current cycle, application window and collection terms not verified."
+    },
+    {
+      "id": "pps",
+      "name": "Project for Public Spaces",
+      "category": "Institutions and nonprofits",
+      "homepage": "https://www.pps.org/community-placemaking-grants",
+      "originalUrl": "https://www.pps.org/",
+      "mode": "manual-review",
+      "listingVerified": true,
+      "pageCheckedAt": "2026-11-10T02:11:06.613Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.pps.org/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Official community placemaking grants page verified. A specific open cycle and permitted collection method still need review."
+    },
+    {
+      "id": "graham",
+      "name": "Graham Foundation",
+      "category": "Institutions and nonprofits",
+      "homepage": "https://www.grahamfoundation.org/grant_programs/",
+      "originalUrl": "https://www.grahamfoundation.org/",
+      "mode": "manual-review",
+      "listingVerified": true,
+      "pageCheckedAt": "2026-11-10T02:11:07.066Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.grahamfoundation.org/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Official grant programs and application guidance verified. Do not infer a currently open cycle from this evergreen page."
+    },
+    {
+      "id": "dumbarton",
+      "name": "Dumbarton Oaks",
+      "category": "Institutions and nonprofits",
+      "homepage": "https://www.doaks.org/",
+      "originalUrl": "https://www.doaks.org/",
+      "mode": "manual-review",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:11:07.114Z",
+      "pageHttp": null,
+      "robots": {
+        "url": "https://www.doaks.org/robots.txt",
+        "allowed": null,
+        "note": "Robots access unresolved; collection paused."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Robots could not be verified; no unattended collection enabled."
+    },
+    {
+      "id": "harvard-gsd",
+      "name": "Harvard Graduate School of Design",
+      "category": "Additional institutions",
+      "homepage": "https://www.gsd.harvard.edu/funding-opportunities/",
+      "originalUrl": "https://www.gsd.harvard.edu/",
+      "mode": "manual-review",
+      "listingVerified": true,
+      "pageCheckedAt": "2026-11-10T02:11:07.423Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.gsd.harvard.edu/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Official funding page verified. Many programs are student- or affiliation-specific; no eligibility or open status inferred."
+    },
+    {
+      "id": "penn-weitzman",
+      "name": "Penn Weitzman School of Design",
+      "category": "Additional institutions",
+      "homepage": "https://www.design.upenn.edu/resources/competitions",
+      "originalUrl": "https://www.design.upenn.edu/",
+      "mode": "manual-review",
+      "listingVerified": true,
+      "pageCheckedAt": "2026-11-10T02:11:08.142Z",
+      "pageHttp": null,
+      "robots": {
+        "url": "https://www.design.upenn.edu/robots.txt",
+        "allowed": null,
+        "note": "Robots access unresolved; collection paused."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Official competitions resource verified through web retrieval; direct robots check failed. No unattended collection enabled."
+    },
+    {
+      "id": "aa",
+      "name": "Architectural Association",
+      "category": "Additional institutions",
+      "homepage": "https://www.aaschool.ac.uk/",
+      "originalUrl": "https://www.aaschool.ac.uk/",
+      "mode": "manual-review",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:11:08.566Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.aaschool.ac.uk/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Homepage checked; active opportunity page, terms and collection adapter remain unverified."
+    },
+    {
+      "id": "ifla",
+      "name": "International Federation of Landscape Architects (IFLA)",
+      "category": "Additional institutions",
+      "homepage": "https://www.iflaworld.com/competitions",
+      "originalUrl": "https://www.iflaworld.com/",
+      "mode": "manual-review",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:11:08.567Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.iflaworld.com/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Official competition route found. Advertised RSS currently has no items; it is not evidence of an active opportunity."
+    },
+    {
+      "id": "riba",
+      "name": "Royal Institute of British Architects (RIBA)",
+      "category": "Additional institutions",
+      "homepage": "https://www.riba.org/explore/competitions/",
+      "originalUrl": "https://www.riba.org/",
+      "mode": "manual-review",
+      "listingVerified": true,
+      "pageCheckedAt": "2026-11-10T02:11:09.002Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.riba.org/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": "https://www.riba.org/about-us/terms-of-use/",
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Official competitions page verified. Site terms and an adapter for individual briefs still need review."
+    },
+    {
+      "id": "aia",
+      "name": "American Institute of Architects (AIA)",
+      "category": "Additional institutions",
+      "homepage": "https://www.aia.org/design-excellence/awards",
+      "originalUrl": "https://www.aia.org/",
+      "mode": "manual-review",
+      "listingVerified": true,
+      "pageCheckedAt": "2026-11-10T02:11:09.553Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://www.aia.org/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": "https://www.aia.org/terms-use",
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Official awards directory verified. Submission windows and membership/licensure requirements vary; no blanket open status inferred."
+    },
+    {
+      "id": "isocarp",
+      "name": "International Society of City and Regional Planners (ISOCARP)",
+      "category": "Additional institutions",
+      "homepage": "https://isocarp.org/activities/awards/",
+      "originalUrl": "https://isocarp.org/",
+      "mode": "manual-review",
+      "listingVerified": false,
+      "pageCheckedAt": "2026-11-10T02:11:09.842Z",
+      "pageHttp": 200,
+      "robots": {
+        "url": "https://isocarp.org/robots.txt",
+        "allowed": true,
+        "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
+      },
+      "termsUrl": null,
+      "termsReview": "Not fully verified",
+      "apiDocs": null,
+      "note": "Official awards route found. Advertised feed contains historical items; not enabled as a current-opportunity feed."
+    }
+  ]
+}

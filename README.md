@@ -6,15 +6,20 @@ A public demo for a small landscape architecture team: a shared discovery board 
 
 ## What works
 
-- Real public listings from Landezine's Calls & Opportunities RSS feed and ASLA's opportunities page.
+- A 46-source directory with verified routes, robots/access findings and explicit manual/permission/API-key states.
+- Automatic linked-title metadata from Competitions.archi's advertised RSS, plus a bounded official EU TED Search API query for urban-planning and landscape CPV codes.
 - Search, type and source filters, deadline sorting, CSV export, and a browser-local shortlist.
 - GitHub-hosted collection approximately every 48 hours, plus manual runs from Actions.
 - URL deduplication, preserved discovery timestamps, source health and last successful collection.
 - Partial failures retain older records; complete failure publishes error status and fails the run.
 
-This is a **discovery tool**, not a verified bidding service. Listings can be historical. Unknown/multiple/yearless deadlines are kept as source text, without guessing. Dates with an explicit year are parsed from ASLA's listing; organizer time zones and cutoff times still require review. Feed publication dates are never treated as deadlines. Fee, budget and eligibility extraction are not implemented.
+This is a **discovery tool**, not a verified bidding service. Listings can be historical. Unknown/multiple/yearless deadlines are kept as source text, without guessing. Official TED calendar dates are retained with raw lot-date evidence; time zones, cutoff times and participation still require review. Feed publication dates are never treated as deadlines. Fee, budget and eligibility extraction are not implemented.
 
-Coverage is deliberately small. Regional procurement portals, access-controlled tender sites and full-web AI search are not included. No paid API key is needed for this version. Public source requests use one request per source per run, with no login or access-control bypass.
+Only sources marked **Automatic** are collected. Directory membership is not monitoring. See [the complete source access review](docs/source-access-review.md). ASLA and Landezine public imports were paused after terms review; prior copied summaries are no longer published. Other publishers with restrictions remain links until permission or an authorized integration is available. SAM.gov needs a key and is not enabled.
+
+TED covers the latest 100 ACTIVE-scope matches for CPV 71400000, 71410000 and 71420000 (including secondary classifications), not all EU tenders. ACTIVE scope can include notices other than currently enterable calls. The feed covers recent publisher entries. Coverage limits appear on the board. No paid API key is needed for these enabled sources. Runtime robots checks fail closed on disallow or unresolved access; redirects are checked before following. No login or access-control bypass is implemented.
+
+Canonical links come from explicit single organizer URLs in feed metadata when present; no organizer domain is fetched merely to deduplicate. Cross-posts with matching normalized URLs merge while preserving all provenance and a stable ID. Similar titles and different annual editions are not automatically merged. Unknown participation, eligibility, fees and budgets remain unverified/null. Distinct lot deadlines remain raw evidence rather than one guessed cutoff.
 
 ## Team access
 
@@ -44,7 +49,9 @@ The schedule wakes daily at 13:23 UTC and collects when at least 47 hours have e
 
 ## Add sources
 
-Edit `config/sources.json`. RSS and ASLA adapters are implemented in `scripts/normalize.mjs`. A new HTML portal needs its own tested adapter; adding a URL alone does not make arbitrary pages compatible.
+Edit `config/source-registry.json` to extend the directory, and `config/source-reviews.json` to record reviewed access decisions. Only add approved collection adapters to `config/sources.json`. RSS normalization is in `scripts/normalize.mjs`; the official TED adapter is in `scripts/ted.mjs`. The old ASLA parser remains tested but is not scheduled. A new HTML portal needs an access review and a tested adapter; a URL alone does not enable it.
+
+`node scripts/audit-sources.mjs` performs a bounded robots-first page audit and saves raw evidence locally under ignored `audit/`. It flags possible clauses; it does **not** determine permission or enable sources automatically. Review terms in context. `node scripts/build-directory.mjs` combines that evidence with reviewed decisions into the public directory and Markdown review. The audit is a deliberate maintenance task, not part of the two-day collection loop.
 
 ## Next iteration
 
