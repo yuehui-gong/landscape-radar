@@ -1,5 +1,5 @@
 {
-  "reviewedAt": "2026-11-10T03:08:52.276Z",
+  "reviewedAt": "2026-11-10T03:19:58.795Z",
   "sourceCount": 46,
   "notice": "Directory membership is not automatic monitoring. Only Automatic sources are collected. A reachable page or permissive robots rule does not establish a reuse license.",
   "sources": [
@@ -109,7 +109,7 @@
       "category": "Competition aggregators",
       "homepage": "https://archinect.com/competitions",
       "originalUrl": "https://www.archinect.com/",
-      "mode": "manual-review",
+      "mode": "automatic",
       "listingVerified": true,
       "pageCheckedAt": "2026-11-10T02:10:52.366Z",
       "pageHttp": 200,
@@ -118,10 +118,10 @@
         "allowed": true,
         "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
       },
-      "termsUrl": null,
-      "termsReview": "Not fully verified",
+      "termsUrl": "https://archinect.com/forum/thread/1560",
+      "termsReview": "Reviewed; see access note",
       "apiDocs": null,
-      "note": "Competition listing verified; promoted listings link to Bustler. Automated-access and republication terms need review."
+      "note": "Terms expressly exempt RSS feeds from the automated-access restriction. Only the official home Atom feed is collected, with a conservative individual competition-announcement title filter. No HTML directory/article scraping, copied descriptions, images, guessed deadlines or open-status assertions. Limited discovery coverage, not the full competition directory."
     },
     {
       "id": "competitions-archi",
@@ -287,10 +287,10 @@
       "id": "non-architecture",
       "name": "Non Architecture",
       "category": "Direct competition organizers",
-      "homepage": "https://www.nonarchitecture.eu/",
+      "homepage": "https://www.non-a.com/open-architecture-competitions/",
       "originalUrl": "https://www.nonarchitecture.eu/",
-      "mode": "manual-review",
-      "listingVerified": false,
+      "mode": "permission-needed",
+      "listingVerified": true,
       "pageCheckedAt": "2026-11-10T02:10:58.171Z",
       "pageHttp": 200,
       "robots": {
@@ -298,10 +298,10 @@
         "allowed": true,
         "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
       },
-      "termsUrl": null,
-      "termsReview": "Not fully verified",
+      "termsUrl": "https://www.non-a.com/terms-of-service/",
+      "termsReview": "Reviewed; see access note",
       "apiDocs": null,
-      "note": "Publisher RSS reachable but sampled entries include newsletters and completed projects. A current-competition filter, terms review and adapter are required."
+      "note": "Original Non Architecture homepage points to this newer Non-A competition portal. Current page says new competitions coming soon and includes past results. Terms section 9.2 restrict automated access/scraping. Reference link only; past results are not imported as open calls."
     },
     {
       "id": "arch-out-loud",
@@ -849,8 +849,8 @@
       "category": "Additional institutions",
       "homepage": "https://www.iflaworld.com/competitions",
       "originalUrl": "https://www.iflaworld.com/",
-      "mode": "manual-review",
-      "listingVerified": false,
+      "mode": "permission-needed",
+      "listingVerified": true,
       "pageCheckedAt": "2026-11-10T02:11:08.567Z",
       "pageHttp": 200,
       "robots": {
@@ -858,10 +858,10 @@
         "allowed": true,
         "note": "Robots rules checked for LandscapeRadar; terms reviewed separately."
       },
-      "termsUrl": null,
-      "termsReview": "Not fully verified",
+      "termsUrl": "https://www.iflaworld.com/privacy-policy-and-terms-of-use",
+      "termsReview": "Reviewed; see access note",
       "apiDocs": null,
-      "note": "Official competition route found. Advertised RSS currently has no items; it is not evidence of an active opportunity."
+      "note": "Official competition hub verified. Linked Terms of Use (effective March 1, 2025) explicitly prohibit automated access without authorization. The linked student page is evergreen program/history information, not a verified current open call. Reference link only; no collector enabled."
     },
     {
       "id": "riba",

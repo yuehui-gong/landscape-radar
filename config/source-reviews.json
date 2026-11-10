@@ -84,9 +84,11 @@
     "note": "Official opportunities API documented; a SAM.gov API key is required. No key configured and no browser scraping fallback."
   },
   "archinect": {
+    "mode": "automatic",
     "page": "https://archinect.com/competitions",
     "verifiedPage": true,
-    "note": "Competition listing verified; promoted listings link to Bustler. Automated-access and republication terms need review."
+    "termsUrl": "https://archinect.com/forum/thread/1560",
+    "note": "Terms expressly exempt RSS feeds from the automated-access restriction. Only the official home Atom feed is collected, with a conservative individual competition-announcement title filter. No HTML directory/article scraping, copied descriptions, images, guessed deadlines or open-status assertions. Limited discovery coverage, not the full competition directory."
   },
   "yac": {
     "page": "https://www.youngarchitectscompetitions.com/open-competitions",
@@ -153,8 +155,11 @@
     "note": "Official competitions resource verified through web retrieval; direct robots check failed. No unattended collection enabled."
   },
   "ifla": {
+    "mode": "permission-needed",
     "page": "https://www.iflaworld.com/competitions",
-    "note": "Official competition route found. Advertised RSS currently has no items; it is not evidence of an active opportunity."
+    "verifiedPage": true,
+    "termsUrl": "https://www.iflaworld.com/privacy-policy-and-terms-of-use",
+    "note": "Official competition hub verified. Linked Terms of Use (effective March 1, 2025) explicitly prohibit automated access without authorization. The linked student page is evergreen program/history information, not a verified current open call. Reference link only; no collector enabled."
   },
   "riba": {
     "page": "https://www.riba.org/explore/competitions/",
@@ -174,6 +179,10 @@
     "note": "Official homepage and advertised feed reachable, but feed provides no current opportunity items. Locate and verify the organizer call page before collection."
   },
   "non-architecture": {
-    "note": "Publisher RSS reachable but sampled entries include newsletters and completed projects. A current-competition filter, terms review and adapter are required."
+    "mode": "permission-needed",
+    "page": "https://www.non-a.com/open-architecture-competitions/",
+    "verifiedPage": true,
+    "termsUrl": "https://www.non-a.com/terms-of-service/",
+    "note": "Original Non Architecture homepage points to this newer Non-A competition portal. Current page says new competitions coming soon and includes past results. Terms section 9.2 restrict automated access/scraping. Reference link only; past results are not imported as open calls."
   }
 }

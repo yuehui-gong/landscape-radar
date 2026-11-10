@@ -59,5 +59,17 @@
     "detailLimit": 10,
     "accessBasis": "Public listing and terms reviewed. No explicit automated-access prohibition found in published participation terms; no blanket reuse license inferred. Titles, links and factual metadata only; runtime robots checks enforced.",
     "coverage": "Official open-competitions index, plus submission-calendar checks for up to 10 briefs per run. Registration dates and results dates are not submission deadlines; eligibility remains unverified."
+  },
+  {
+    "id": "archinect",
+    "name": "Archinect",
+    "kind": "archinect",
+    "url": "https://archinect.com/feed/home",
+    "homepage": "https://archinect.com/competitions",
+    "region": "International",
+    "metadataOnly": true,
+    "defaultType": "Competition",
+    "accessBasis": "Official Atom feed; Archinect Terms of Use expressly exempt RSS access from the automated-access restriction. Metadata only; no article or directory scraping.",
+    "coverage": "Conservatively filtered individual competition announcements from the latest 30 general-feed entries. Excludes results, shortlists and multi-competition roundups. Limited discovery, not a complete directory; deadlines and participation remain unverified."
   }
 ]

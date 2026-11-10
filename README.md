@@ -7,6 +7,8 @@ A public demo for a small landscape architecture team: a shared discovery board 
 ## What works
 
 - A 46-source directory with verified routes, robots/access findings and explicit manual/permission/API-key states.
+- Archinect official Atom feed: selected individual competition announcements only; excludes results, shortlists and roundups. No article or competition-directory scraping. Deadlines and open status remain unverified.
+- IFLA and Non Architecture are verified reference links in the source directory; their terms restrict automated access. Non Architecture points to its newer Non-A portal, currently advertising future competitions and past results.
 - Official YAC competition cards and explicitly labeled submission-calendar dates, with robots checks on listing and brief pages.
 - Automatic linked-title metadata from Competitions.archi's advertised RSS, plus a bounded official EU TED Search API query for urban-planning and landscape CPV codes.
 - Search, type and source filters, deadline sorting, CSV export, and a browser-local shortlist.
