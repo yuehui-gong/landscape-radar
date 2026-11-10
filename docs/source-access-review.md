@@ -4,8 +4,8 @@ All 46 requested sources are retained in the directory. Only the sources configu
 
 | Source | Mode | Listing page verified | Access note |
 | --- | --- | --- | --- |
-| [ASLA](https://www.asla.org/resources/practitioners/rfqs-and-opportunities) | permission-needed | Yes | Terms restrict copying, distribution and incorporation into information-retrieval systems without consent. Prior public imports paused; source remains linked. |
-| [Landezine](https://landezine.com/topics/methods-mediations/calls-opportunities/) | permission-needed | Yes | Terms limit use to personal viewing and restrict public display and mirroring. Prior public imports paused pending permission. |
+| [ASLA](https://www.asla.org/resources/practitioners/rfqs-and-opportunities) | automatic | Yes | Public-page parser restored at user request for titles, links, location and stated deadlines only. Descriptions and images excluded. Reuse permission remains unverified; robots restrictions are enforced. |
+| [Landezine](https://landezine.com/topics/methods-mediations/calls-opportunities/) | access-blocked | Yes | RSS reader restored as a scheduled metadata-only access check at user request, but current robots.txt disallows /feed/ and */feed/. No feed content fetched while blocked. Reuse permission remains unverified. |
 | [Bustler](https://bustler.net/competitions/) | manual-review | No | Robots could not be verified; no unattended collection enabled. |
 | [ArchDaily Competitions](https://www.archdaily.com/search/competitions/en) | permission-needed | Yes | Terms require written permission for copying or scraping. Not collected. |
 | [competitionline](https://www.competitionline.com/) | manual-review | No | Homepage checked; active opportunity page, terms and collection adapter remain unverified. |
@@ -61,4 +61,4 @@ Unknown participation, eligibility, fee and budget stay unverified/null. Preserv
 
 ## Coverage
 
-TED is a bounded discovery query for the latest 100 matching notices, including secondary CPV classifications. The feed is the publisher’s latest entries. Neither is exhaustive. ASLA and Landezine public imports were paused following terms review; their previous copied summaries are no longer published.
+TED is a bounded discovery query for the latest 100 matching notices, including secondary CPV classifications. The feed is the publisher’s latest entries. Neither is exhaustive. ASLA metadata collection was restored at user request. Landezine is scheduled for robots rechecks but feed content is currently blocked. Reuse permissions remain unverified; no descriptions or images are republished.

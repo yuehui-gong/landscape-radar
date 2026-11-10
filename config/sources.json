@@ -1,4 +1,50 @@
 [
- {"id":"competitions-archi","name":"Competitions.archi","kind":"rss","url":"https://competitions.archi/feed/","homepage":"https://competitions.archi/cat/all-competitions/","region":"International","metadataOnly":true,"defaultType":"Competition","excludeTitle":"^results?\\s*:|winners?\\s+announced","accessBasis":"Publisher-advertised RSS; linked titles and factual metadata only. No article text, images or blanket reuse grant.","coverage":"Latest publisher feed entries; not the full archive."},
- {"id":"ted","name":"EU TED","kind":"ted","url":"https://api.ted.europa.eu/v3/notices/search","homepage":"https://ted.europa.eu/en/","region":"Europe","official":true,"query":"(classification-cpv=71400000 OR classification-cpv=71410000 OR classification-cpv=71420000) SORT BY publication-date DESC","limit":100,"accessBasis":"Official documented keyless public Search API, with attribution.","coverage":"Latest 100 ACTIVE-scope urban-planning and landscape CPV matches, including secondary codes. ACTIVE scope does not establish participation eligibility or that every notice is a new call."}
+  {
+    "id": "competitions-archi",
+    "name": "Competitions.archi",
+    "kind": "rss",
+    "url": "https://competitions.archi/feed/",
+    "homepage": "https://competitions.archi/cat/all-competitions/",
+    "region": "International",
+    "metadataOnly": true,
+    "defaultType": "Competition",
+    "excludeTitle": "^results?\\s*:|winners?\\s+announced",
+    "accessBasis": "Publisher-advertised RSS; linked titles and factual metadata only. No article text, images or blanket reuse grant.",
+    "coverage": "Latest publisher feed entries; not the full archive."
+  },
+  {
+    "id": "ted",
+    "name": "EU TED",
+    "kind": "ted",
+    "url": "https://api.ted.europa.eu/v3/notices/search",
+    "homepage": "https://ted.europa.eu/en/",
+    "region": "Europe",
+    "official": true,
+    "query": "(classification-cpv=71400000 OR classification-cpv=71410000 OR classification-cpv=71420000) SORT BY publication-date DESC",
+    "limit": 100,
+    "accessBasis": "Official documented keyless public Search API, with attribution.",
+    "coverage": "Latest 100 ACTIVE-scope urban-planning and landscape CPV matches, including secondary codes. ACTIVE scope does not establish participation eligibility or that every notice is a new call."
+  },
+  {
+    "id": "asla",
+    "name": "ASLA",
+    "kind": "asla",
+    "url": "https://www.asla.org/resources/practitioners/rfqs-and-opportunities",
+    "homepage": "https://www.asla.org/resources/practitioners/rfqs-and-opportunities",
+    "region": "United States",
+    "metadataOnly": true,
+    "accessBasis": "Public-page metadata collection restored at user request. Reuse permission remains unverified. No descriptions or images retained.",
+    "coverage": "Public ASLA opportunity listings; deadlines and eligibility require organizer review."
+  },
+  {
+    "id": "landezine",
+    "name": "Landezine",
+    "kind": "rss",
+    "url": "https://landezine.com/topics/methods-mediations/calls-opportunities/feed/",
+    "homepage": "https://landezine.com/topics/methods-mediations/calls-opportunities/",
+    "region": "International",
+    "metadataOnly": true,
+    "accessBasis": "Publisher RSS metadata collection restored at user request. Reuse permission remains unverified. No descriptions or images retained.",
+    "coverage": "Latest Calls & Opportunities feed entries; publication dates are not deadlines."
+  }
 ]
