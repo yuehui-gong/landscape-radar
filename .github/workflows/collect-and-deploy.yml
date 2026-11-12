@@ -39,6 +39,9 @@ jobs:
         run: npm install --ignore-scripts --no-audit --no-fund
       - if: steps.gate.outputs.publish == 'true'
         run: npm test
+      - name: Install Chromium for ArchDaily
+        if: steps.gate.outputs.publish == 'true'
+        run: npx --no-install playwright install --with-deps chromium
       - id: collection
         if: steps.gate.outputs.publish == 'true'
         continue-on-error: true

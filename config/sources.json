@@ -71,5 +71,16 @@
     "defaultType": "Competition",
     "accessBasis": "Official Atom feed; Archinect Terms of Use expressly exempt RSS access from the automated-access restriction. Metadata only; no article or directory scraping.",
     "coverage": "Conservatively filtered individual competition announcements from the latest 30 general-feed entries. Excludes results, shortlists and multi-competition roundups. Limited discovery, not a complete directory; deadlines and participation remain unverified."
+  },
+  {
+    "id": "archdaily",
+    "name": "ArchDaily",
+    "kind": "archdaily",
+    "url": "https://www.archdaily.com/search/competitions/en",
+    "homepage": "https://www.archdaily.com/search/competitions/en",
+    "region": "International",
+    "metadataOnly": true,
+    "accessBasis": "Browser-rendered public listing collection enabled at user request. Published terms require written scraping permission; publisher permission remains unresolved. Runtime robots checks enforced; no sign-in, proxies or challenge-solving.",
+    "coverage": "One rendered competition index page per run; duplicate cards and result announcements excluded. Titles and links only, without descriptions/images. No detail-page crawl, pagination, inferred deadlines or open/eligibility claims."
   }
 ]

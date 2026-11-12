@@ -1,5 +1,5 @@
 {
-  "reviewedAt": "2026-11-10T03:19:58.795Z",
+  "reviewedAt": "2026-11-12T03:54:54.847Z",
   "sourceCount": 46,
   "notice": "Directory membership is not automatic monitoring. Only Automatic sources are collected. A reachable page or permissive robots rule does not establish a reuse license.",
   "sources": [
@@ -69,7 +69,7 @@
       "category": "Competition aggregators",
       "homepage": "https://www.archdaily.com/search/competitions/en",
       "originalUrl": "https://www.archdaily.com/search/competitions/en",
-      "mode": "permission-needed",
+      "mode": "automatic",
       "listingVerified": true,
       "pageCheckedAt": "2026-11-10T02:10:51.671Z",
       "pageHttp": 200,
@@ -81,7 +81,7 @@
       "termsUrl": "https://www.archdaily.com/content/terms-of-use.en-US",
       "termsReview": "Reviewed; see access note",
       "apiDocs": null,
-      "note": "Terms require written permission for copying or scraping. Not collected."
+      "note": "Metadata-only browser collector enabled at user request after a successful local rendering test. Terms require written scraping permission; publisher permission remains unresolved. Runtime robots checks remain enforced. One index page, titles and links only; no descriptions, images, sign-in, proxies or challenge-solving. Deadlines and participation remain unverified."
     },
     {
       "id": "competitionline",

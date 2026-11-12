@@ -6,6 +6,8 @@ A public demo for a small landscape architecture team: a shared discovery board 
 
 ## What works
 
+- ArchDaily: one browser-rendered competition index page per run, metadata only. Enabled at user request; its published terms require written scraping permission, which remains unresolved. No login, proxy or challenge-solving. GitHub Actions installs Chromium; local setup: `pnpm exec playwright install chromium` (or set `ARCHDAILY_BROWSER_CHANNEL=chrome` to use installed Chrome).
+
 - A 46-source directory with verified routes, robots/access findings and explicit manual/permission/API-key states.
 - Archinect official Atom feed: selected individual competition announcements only; excludes results, shortlists and roundups. No article or competition-directory scraping. Deadlines and open status remain unverified.
 - IFLA and Non Architecture are verified reference links in the source directory; their terms restrict automated access. Non Architecture points to its newer Non-A portal, currently advertising future competitions and past results.

@@ -12,10 +12,11 @@
     "note": "Metadata-only public listing-page parser restored at user request. Current robots permits this page but blocks RSS, so no feed URLs are requested. Reuse permission remains unverified; descriptions and images excluded."
   },
   "archdaily": {
-    "mode": "permission-needed",
+    "mode": "automatic",
+    "page": "https://www.archdaily.com/search/competitions/en",
     "verifiedPage": true,
     "termsUrl": "https://www.archdaily.com/content/terms-of-use.en-US",
-    "note": "Terms require written permission for copying or scraping. Not collected."
+    "note": "Metadata-only browser collector enabled at user request after a successful local rendering test. Terms require written scraping permission; publisher permission remains unresolved. Runtime robots checks remain enforced. One index page, titles and links only; no descriptions, images, sign-in, proxies or challenge-solving. Deadlines and participation remain unverified."
   },
   "buildner": {
     "mode": "permission-needed",
