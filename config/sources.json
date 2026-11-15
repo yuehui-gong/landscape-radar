@@ -82,5 +82,18 @@
     "metadataOnly": true,
     "accessBasis": "Browser-rendered public listing collection enabled at user request. Published terms require written scraping permission; publisher permission remains unresolved. Runtime robots checks enforced; no sign-in, proxies or challenge-solving.",
     "coverage": "One rendered competition index page per run; duplicate cards and result announcements excluded. Titles and links only, without descriptions/images. No detail-page crawl, pagination, inferred deadlines or open/eligibility claims."
+  },
+  {
+    "id": "non-architecture",
+    "name": "Non Architecture (Non-A)",
+    "kind": "non-a",
+    "url": "https://www.non-a.com/open-architecture-competitions/",
+    "homepage": "https://www.non-a.com/open-architecture-competitions/",
+    "region": "International",
+    "official": true,
+    "metadataOnly": true,
+    "defaultType": "Competition",
+    "accessBasis": "Browser-rendered public Open tab collection enabled at user request. Terms restrict automated access; publisher permission remains unresolved. Runtime robots checks enforced; no sign-in, proxies or challenge-solving.",
+    "coverage": "One competition index page per run, scoped to the explicitly labeled Open tab. Past/results tabs excluded. An explicit coming-soon message is a successful zero-listing check. Titles and organizer links only; deadlines, fees and eligibility remain unverified."
   }
 ]

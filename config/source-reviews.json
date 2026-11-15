@@ -180,10 +180,10 @@
     "note": "Official homepage and advertised feed reachable, but feed provides no current opportunity items. Locate and verify the organizer call page before collection."
   },
   "non-architecture": {
-    "mode": "permission-needed",
+    "mode": "automatic",
     "page": "https://www.non-a.com/open-architecture-competitions/",
     "verifiedPage": true,
     "termsUrl": "https://www.non-a.com/terms-of-service/",
-    "note": "Original Non Architecture homepage points to this newer Non-A competition portal. Current page says new competitions coming soon and includes past results. Terms section 9.2 restrict automated access/scraping. Reference link only; past results are not imported as open calls."
+    "note": "Metadata-only browser collection of the explicitly labeled Open tab enabled at user request. Currently says new competitions coming soon: zero current listings is expected; Past/results entries are excluded. Terms restrict automated access; publisher permission remains unresolved. Runtime robots checks enforced; no sign-in, proxies or challenge-solving."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "reviewedAt": "2026-11-12T03:54:54.847Z",
+  "reviewedAt": "2026-11-15T03:55:30.813Z",
   "sourceCount": 46,
   "notice": "Directory membership is not automatic monitoring. Only Automatic sources are collected. A reachable page or permissive robots rule does not establish a reuse license.",
   "sources": [
@@ -289,7 +289,7 @@
       "category": "Direct competition organizers",
       "homepage": "https://www.non-a.com/open-architecture-competitions/",
       "originalUrl": "https://www.nonarchitecture.eu/",
-      "mode": "permission-needed",
+      "mode": "automatic",
       "listingVerified": true,
       "pageCheckedAt": "2026-11-10T02:10:58.171Z",
       "pageHttp": 200,
@@ -301,7 +301,7 @@
       "termsUrl": "https://www.non-a.com/terms-of-service/",
       "termsReview": "Reviewed; see access note",
       "apiDocs": null,
-      "note": "Original Non Architecture homepage points to this newer Non-A competition portal. Current page says new competitions coming soon and includes past results. Terms section 9.2 restrict automated access/scraping. Reference link only; past results are not imported as open calls."
+      "note": "Metadata-only browser collection of the explicitly labeled Open tab enabled at user request. Currently says new competitions coming soon: zero current listings is expected; Past/results entries are excluded. Terms restrict automated access; publisher permission remains unresolved. Runtime robots checks enforced; no sign-in, proxies or challenge-solving."
     },
     {
       "id": "arch-out-loud",

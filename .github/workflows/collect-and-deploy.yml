@@ -39,7 +39,7 @@ jobs:
         run: npm install --ignore-scripts --no-audit --no-fund
       - if: steps.gate.outputs.publish == 'true'
         run: npm test
-      - name: Install Chromium for ArchDaily
+      - name: Install Chromium for browser collectors
         if: steps.gate.outputs.publish == 'true'
         run: npx --no-install playwright install --with-deps chromium
       - id: collection
