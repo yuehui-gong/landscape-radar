@@ -1,6 +1,6 @@
 # Source access review
 
-All 46 requested sources are retained in the directory. Only the sources configured in `config/sources.json` run on the recurring collection schedule. Terms and robots findings are point-in-time checks, not legal permission or proof a competition is open.
+All 48 sources are retained in the directory. Only the sources configured in `config/sources.json` run on the recurring collection schedule. Terms and robots findings are point-in-time checks, not legal permission or proof a competition is open.
 
 | Source | Mode | Listing page verified | Access note |
 | --- | --- | --- | --- |
@@ -50,6 +50,8 @@ All 46 requested sources are retained in the directory. Only the sources configu
 | [Royal Institute of British Architects (RIBA)](https://www.riba.org/explore/competitions/) | manual-review | Yes | Official competitions page verified. Site terms and an adapter for individual briefs still need review. |
 | [American Institute of Architects (AIA)](https://www.aia.org/design-excellence/awards) | manual-review | Yes | Official awards directory verified. Submission windows and membership/licensure requirements vary; no blanket open status inferred. |
 | [International Society of City and Regional Planners (ISOCARP)](https://isocarp.org/activities/awards/) | manual-review | No | Official awards route found. Advertised feed contains historical items; not enabled as a current-opportunity feed. |
+| [Institute of Architects Bangladesh (IAB)](https://iab.org.bd/category/competition/) | automatic | Yes | Official competition-category RSS verified. Metadata-only discovery of Bangladesh architectural design calls; congress papers and results excluded. Published copyright terms restrict reproduction; reuse permission remains unverified. Older announcements may remain, with participation and deadlines unverified. |
+| [GeBIZ — Singapore design consultancy](https://www.gebiz.gov.sg/ptn/opportunity/BOListing.xhtml?origin=search) | automatic | Yes | Public browser searches for landscape, consultancy and urban design enabled at user request. First result pages only; filters routine maintenance and confirmed past closing dates. Notice terms restrict reuse beyond bid preparation; publisher permission remains unresolved. No login or bypass; runtime robots checks enforced. Eligibility, registration and shortlist requirements need notice review. |
 
 ## Canonical URLs and duplicates
 

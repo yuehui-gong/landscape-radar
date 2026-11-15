@@ -185,5 +185,19 @@
     "verifiedPage": true,
     "termsUrl": "https://www.non-a.com/terms-of-service/",
     "note": "Metadata-only browser collection of the explicitly labeled Open tab enabled at user request. Currently says new competitions coming soon: zero current listings is expected; Past/results entries are excluded. Terms restrict automated access; publisher permission remains unresolved. Runtime robots checks enforced; no sign-in, proxies or challenge-solving."
+  },
+  "iab": {
+    "mode": "automatic",
+    "page": "https://iab.org.bd/category/competition/",
+    "verifiedPage": true,
+    "termsUrl": "https://iab.org.bd/terms-conditions/",
+    "note": "Official competition-category RSS verified. Metadata-only discovery of Bangladesh architectural design calls; congress papers and results excluded. Published copyright terms restrict reproduction; reuse permission remains unverified. Older announcements may remain, with participation and deadlines unverified."
+  },
+  "gebiz": {
+    "mode": "automatic",
+    "page": "https://www.gebiz.gov.sg/ptn/opportunity/BOListing.xhtml?origin=search",
+    "verifiedPage": true,
+    "termsUrl": "https://www.gebiz.gov.sg/terms-of-use.html",
+    "note": "Public browser searches for landscape, consultancy and urban design enabled at user request. First result pages only; filters routine maintenance and confirmed past closing dates. Notice terms restrict reuse beyond bid preparation; publisher permission remains unresolved. No login or bypass; runtime robots checks enforced. Eligibility, registration and shortlist requirements need notice review."
   }
 }

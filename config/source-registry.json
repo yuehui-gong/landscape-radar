@@ -44,5 +44,7 @@
  {"id":"ifla","name":"International Federation of Landscape Architects (IFLA)","category":"Additional institutions","url":"https://www.iflaworld.com/"},
  {"id":"riba","name":"Royal Institute of British Architects (RIBA)","category":"Additional institutions","url":"https://www.riba.org/"},
  {"id":"aia","name":"American Institute of Architects (AIA)","category":"Additional institutions","url":"https://www.aia.org/"},
- {"id":"isocarp","name":"International Society of City and Regional Planners (ISOCARP)","category":"Additional institutions","url":"https://isocarp.org/"}
+ {"id":"isocarp","name":"International Society of City and Regional Planners (ISOCARP)","category":"Additional institutions","url":"https://isocarp.org/"},
+ {"id":"iab","name":"Institute of Architects Bangladesh (IAB)","category":"Regional design institutes","url":"https://iab.org.bd/category/competition/"},
+ {"id":"gebiz","name":"GeBIZ — Singapore design consultancy","category":"RFP / RFQ / public procurement","url":"https://www.gebiz.gov.sg/ptn/opportunity/BOListing.xhtml?origin=search"}
 ]

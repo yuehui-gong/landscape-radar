@@ -1,6 +1,6 @@
 {
-  "reviewedAt": "2026-11-15T03:55:30.813Z",
-  "sourceCount": 46,
+  "reviewedAt": "2026-11-15T06:12:17.370Z",
+  "sourceCount": 48,
   "notice": "Directory membership is not automatic monitoring. Only Automatic sources are collected. A reachable page or permissive robots rule does not establish a reuse license.",
   "sources": [
     {
@@ -922,6 +922,44 @@
       "termsReview": "Not fully verified",
       "apiDocs": null,
       "note": "Official awards route found. Advertised feed contains historical items; not enabled as a current-opportunity feed."
+    },
+    {
+      "id": "iab",
+      "name": "Institute of Architects Bangladesh (IAB)",
+      "category": "Regional design institutes",
+      "homepage": "https://iab.org.bd/category/competition/",
+      "originalUrl": "https://iab.org.bd/category/competition/",
+      "mode": "automatic",
+      "listingVerified": true,
+      "pageCheckedAt": null,
+      "pageHttp": null,
+      "robots": {
+        "allowed": null,
+        "note": "Not checked"
+      },
+      "termsUrl": "https://iab.org.bd/terms-conditions/",
+      "termsReview": "Reviewed; see access note",
+      "apiDocs": null,
+      "note": "Official competition-category RSS verified. Metadata-only discovery of Bangladesh architectural design calls; congress papers and results excluded. Published copyright terms restrict reproduction; reuse permission remains unverified. Older announcements may remain, with participation and deadlines unverified."
+    },
+    {
+      "id": "gebiz",
+      "name": "GeBIZ — Singapore design consultancy",
+      "category": "RFP / RFQ / public procurement",
+      "homepage": "https://www.gebiz.gov.sg/ptn/opportunity/BOListing.xhtml?origin=search",
+      "originalUrl": "https://www.gebiz.gov.sg/ptn/opportunity/BOListing.xhtml?origin=search",
+      "mode": "automatic",
+      "listingVerified": true,
+      "pageCheckedAt": null,
+      "pageHttp": null,
+      "robots": {
+        "allowed": null,
+        "note": "Not checked"
+      },
+      "termsUrl": "https://www.gebiz.gov.sg/terms-of-use.html",
+      "termsReview": "Reviewed; see access note",
+      "apiDocs": null,
+      "note": "Public browser searches for landscape, consultancy and urban design enabled at user request. First result pages only; filters routine maintenance and confirmed past closing dates. Notice terms restrict reuse beyond bid preparation; publisher permission remains unresolved. No login or bypass; runtime robots checks enforced. Eligibility, registration and shortlist requirements need notice review."
     }
   ]
 }

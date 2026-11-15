@@ -6,9 +6,11 @@ A public demo for a small landscape architecture team: a shared discovery board 
 
 ## What works
 
+- Asia: IAB competition-category RSS for Bangladesh civic/climate-resilient architectural design calls; GeBIZ browser searches for Singapore landscape/urban/architectural consultancy. Bounded discovery, metadata only; current openness and foreign-team eligibility are not inferred. GeBIZ reuse restrictions remain unresolved. Local browser override: `GEBIZ_BROWSER_CHANNEL=chrome`.
+
 - ArchDaily: one browser-rendered competition index page per run, metadata only. Enabled at user request; its published terms require written scraping permission, which remains unresolved. No login, proxy or challenge-solving. GitHub Actions installs Chromium; local setup: `pnpm exec playwright install chromium` (or set `ARCHDAILY_BROWSER_CHANNEL=chrome` to use installed Chrome).
 
-- A 46-source directory with verified routes, robots/access findings and explicit manual/permission/API-key states.
+- A 48-source directory with verified routes, robots/access findings and explicit manual/permission/API-key states.
 - Archinect official Atom feed: selected individual competition announcements only; excludes results, shortlists and roundups. No article or competition-directory scraping. Deadlines and open status remain unverified.
 - Non Architecture (Non-A): browser collection of its explicitly labeled Open tab enabled at user request; publisher permission under its restrictive terms remains unresolved. Past/results tabs are excluded. A coming-soon message is a successful zero-listing check. Local Chrome override: `NON_A_BROWSER_CHANNEL=chrome`.
 - IFLA remains a verified reference link in the source directory; its terms restrict automated access.

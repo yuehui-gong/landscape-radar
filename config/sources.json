@@ -95,5 +95,35 @@
     "defaultType": "Competition",
     "accessBasis": "Browser-rendered public Open tab collection enabled at user request. Terms restrict automated access; publisher permission remains unresolved. Runtime robots checks enforced; no sign-in, proxies or challenge-solving.",
     "coverage": "One competition index page per run, scoped to the explicitly labeled Open tab. Past/results tabs excluded. An explicit coming-soon message is a successful zero-listing check. Titles and organizer links only; deadlines, fees and eligibility remain unverified."
+  },
+  {
+    "id": "iab",
+    "name": "Institute of Architects Bangladesh (IAB)",
+    "kind": "iab",
+    "url": "https://iab.org.bd/category/competition/feed/",
+    "homepage": "https://iab.org.bd/category/competition/",
+    "region": "Asia",
+    "official": true,
+    "metadataOnly": true,
+    "defaultType": "Competition",
+    "accessBasis": "Publisher-advertised competition-category RSS; linked-title metadata only. Copyright terms reviewed; reuse permission remains unverified. Runtime robots enforced.",
+    "coverage": "Latest category feed, restricted to architectural design competitions explicitly located in Bangladesh/Dhaka. Excludes congress papers, jobs and results. Older announcements may remain; no current participation, deadline or foreign-team eligibility inferred."
+  },
+  {
+    "id": "gebiz",
+    "name": "GeBIZ — Singapore design consultancy",
+    "kind": "gebiz",
+    "url": "https://www.gebiz.gov.sg/ptn/opportunity/BOListing.xhtml?origin=search",
+    "homepage": "https://www.gebiz.gov.sg/ptn/opportunity/BOListing.xhtml?origin=search",
+    "region": "Asia",
+    "official": true,
+    "metadataOnly": true,
+    "queries": [
+      "landscape",
+      "consultancy",
+      "urban design"
+    ],
+    "accessBasis": "Public search browser collection enabled at user request. GeBIZ notices restrict reuse outside bid preparation; publisher permission remains unresolved. Runtime robots enforced; no sign-in, proxy or challenge solving.",
+    "coverage": "First public result page for each of three title searches: landscape, consultancy, urban design. Retains design/planning consultancy themes; filters routine maintenance and confirmed past closing dates. Bounded discovery, not all Singapore procurement; eligibility and shortlist requirements need notice review."
   }
 ]
